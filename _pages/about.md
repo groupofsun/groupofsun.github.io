@@ -22,6 +22,7 @@ Literature Repository is created for document management, storing statistical pa
 
 - Autumn Semester, 2022
 - Spring Semester, 2023
+  + ({{site.url}}/literature/7.6ppt.pdf).
 
 ## Papers (By research areas)
 
