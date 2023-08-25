@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Research Interests
+Research Interests（模板状态）
 ------
 
 <ul>
@@ -17,7 +17,7 @@ Research Interests
 </ul>
 
 
-Publications and Preprints
+Publications and Preprints（模板状态）
 ------
 
 <ul>
@@ -30,7 +30,7 @@ Publications and Preprints
 
 (# alphabetical order, * co-first author)
 
-Awards and Honors
+Awards and Honors（模板状态）
 ------
 
 <ul>
@@ -40,7 +40,7 @@ Awards and Honors
 </ul>
 
 
-Presentations
+Presentations（模板状态）
 ------
 
 <ul>
@@ -57,11 +57,10 @@ Presentations
 </ul>
 
 
-Service Activities
+Service Activities（模板状态）
 ------
 
 <ul>
     <li>Council Member, Causal Inference Branch of the Chinese Association for Applied Statistics.</li>
     <li>Reviewers: Journal of the American Statistical Association (5), Biostatistics, Journal of Nonparametric Statistics, Lifetime Data Analysis, Statistics.</li>
 </ul>
-
