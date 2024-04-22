@@ -38,7 +38,7 @@ Literature Repository is created for document management, storing statistical pa
 
 | Date | Presenter | Topic | 
 | 2023.9.11 | Zhaojun Hu | [Federated Learning with Partial Model Personalization]({{site.url}}/literature/Autumn_2023/2023.9.11_zhaojun_Federated Learning with Partial Model Personalization.zip) | 
-
+| 2023.12.3| Zhihao Zou | [On learning fairness and accuracy on multiple subgroups]({{site.url}}/literature/Autumn_2023/2023.12.3_zhihao_On learning fairness and accuracy on multiple subgroups) | 
 ## Papers (Spring Semester, 2024)
 
 | Date | Presenter | Topic | 
