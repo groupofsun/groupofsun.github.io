@@ -32,3 +32,8 @@ Literature Repository is created for document management, storing statistical pa
 - Fairness of Federated Learning
 - Change Point Detection
 - Neural Network
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
