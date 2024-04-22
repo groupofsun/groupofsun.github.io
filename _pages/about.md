@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Literature Repository for Group study "
+title: "Literature Repository for Group Meeting "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,7 +33,17 @@ Literature Repository is created for document management, storing statistical pa
 - Change Point Detection
 - Neural Network
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Date | Presenter | Topic | 
+| 2023.2.22   | Zhaojun Hu     | on Convergence of Fedprox  |
+| 2023.3.1   | Biao Mei     | Federated Multi-Task Learning under a Mixture of Distributions  | 
+| 2023.3.15     | Erbo Li       | Mixed Linear Regression with Multiple Components|
+| 2023.3.22     | Zhaojun Hu       |A Unified Analysis of Stochastic Gradient Methods|
+| 2023.3.24     | Biao Mei      |Federated Learning from Pre-Trained Models|
+| 2023.4.22     | Tianxiang Cui      |PartialFed|
+| 2023.5.5     | Xue Yu     |Latent Graph Learning via VAE|
+| 2023.5.13     | Tianxiang Cui    |Categorical Reparameterization With Gumbel-Softmax|
+| 2023.6.3     |Erbo Li    |Meta-learning for Mixed Linear Regression|
+| 2023.6.14     |Yuzhao Zhang   |Network Subspace Change Point Detection|
+
+
+
