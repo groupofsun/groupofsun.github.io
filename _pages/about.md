@@ -35,7 +35,9 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.7.5     |Biao Mei  |[On Bridging Generic and Personalized Federated Learning for Image Classification]({{site.url}}/literature/Spring_2023/2023.7.5_meibiao_On Bridging Generic and Personalized Federated Learning for Image Classification.zip)|
 
 ## Papers (Autumn Semester, 2023)
+
 | Date | Presenter | Topic | 
 
 ## Papers (Spring Semester, 2024)
+
 | Date | Presenter | Topic | 
