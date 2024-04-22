@@ -20,7 +20,7 @@ Literature Repository is created for document management, storing statistical pa
 ## Papers (Spring Semester, 2023)
 
 | Date | Presenter | Topic | 
-| 2023.2.22   | Zhaojun Hu     | [on Convergence of Fedprox]({{site.url}}/literature/Spring_2023/2023.2.22_zhaojun_on Convergence of Fedprox.zip)  |
+| 2023.2.22   | Zhaojun Hu     | [On Convergence of Fedprox]({{site.url}}/literature/Spring_2023/2023.2.22_zhaojun_on Convergence of Fedprox.zip)  |
 | 2023.3.1   | Biao Mei     | [Federated Multi-Task Learning under a Mixture of Distributions]({{site.url}}/literature/Spring_2023/2023.3.1_meibiao_Federated Multi-Task Learning under a Mixture of Distributions.zip)  | 
 | 2023.3.8 | Zhihao Zou | [Towards Efficient Data Valuation Based on the Shapley Value]({{site.url}}/literature/Spring_2023/2023.3.8_zhihao_Towards Efficient Data Valuation Based on the Shapley Value.zip) |
 | 2023.3.15     | Erbo Li       | [Mixed Linear Regression with Multiple Components]({{site.url}}/literature/Spring_2023/2023.3.15_lear_Mixed Linear Regression with Multiple Components.rar)|
