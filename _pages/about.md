@@ -14,25 +14,11 @@ Literature Repository is created for document management, storing statistical pa
 
 ## Table of contents
 
-- [Literature Repository](#literature-repository)
-  - [Papers (By discussion date)](#papers-by-discussion-date)
-  - [Papers(By research areas)](#papers-by-research-areas)
+- [Autumn Semester, 2022](#literature-repository)
+- [Spring Semester, 2023](#papers-by-discussion-date)
+ 
 
-## Papers (By discussion date)
-
-- Autumn Semester, 2022
-- Spring Semester, 2023
-  + [7.6ppt]({{site.url}}/literature/7.6ppt.pdf).
-  + [example]({{site.url}}/date/Autumn2023.md)
-
-## Papers (By research areas)
-
-- Convergence Theory on Federated Learning
-- Personalized Federated Learning
-- Fairness of Federated Learning
-- Change Point Detection
-- Neural Network
-
+## Papers (Spring Semester, 2023)
 | Date | Presenter | Topic | 
 | 2023.2.22   | Zhaojun Hu     | [on Convergence of Fedprox]({{site.url}}/literature/Spring_2023/2023.2.22_zhaojun_on Convergence of Fedprox.zip)  |
 | 2023.3.1   | Biao Mei     | [Federated Multi-Task Learning under a Mixture of Distributions]({{site.url}}/literature/Spring_2023/2023.3.1_meibiao_Federated Multi-Task Learning under a Mixture of Distributions.zip)  | 
