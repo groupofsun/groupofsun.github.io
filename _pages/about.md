@@ -34,7 +34,7 @@ Literature Repository is created for document management, storing statistical pa
 - Neural Network
 
 | Date | Presenter | Topic | 
-| 2023.2.22   | Zhaojun Hu     | on Convergence of Fedprox  |
+| 2023.2.22   | Zhaojun Hu     | [on Convergence of Fedprox]({{site.url}}/literature/Spring_2023/2023.2.22_zhaojun_on Convergence of Fedprox.zip)  |
 | 2023.3.1   | Biao Mei     | Federated Multi-Task Learning under a Mixture of Distributions  | 
 | 2023.3.15     | Erbo Li       | Mixed Linear Regression with Multiple Components|
 | 2023.3.22     | Zhaojun Hu       |A Unified Analysis of Stochastic Gradient Methods|
