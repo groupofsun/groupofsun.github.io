@@ -37,6 +37,7 @@ Literature Repository is created for document management, storing statistical pa
 ## Papers (Autumn Semester, 2023)
 
 | Date | Presenter | Topic | 
+| 2023.9.11 | Zhaojun Hu | [Federated Learning with Partial Model Personalization]({{site.url}}/literature/Autumn_2023/2023.9.11_zhaojun_Federated Learning with Partial Model Personalization.zip) | 
 
 ## Papers (Spring Semester, 2024)
 
