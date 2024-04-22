@@ -13,8 +13,8 @@ Literature Repository is created for document management, storing statistical pa
 
 ## Table of contents
 
-- [Autumn Semester, 2022](#literature-repository)
-- [Spring Semester, 2023](#papers-by-discussion-date)
+- [Autumn Semester, 2022](#papers-spring-semester-2023)
+- [Spring Semester, 2023](#papers-autumn-semester-2023)
  
 
 ## Papers (Spring Semester, 2023)
