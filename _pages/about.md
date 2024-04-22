@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# Literature Repository
 
-Literature Repository is created for document management, storing statistical papers on statistics and machine learning. This repository contains two folders  "Papers by discussion date" and  " Papers by research areas"  
+Literature Repository is created for document management, storing statistical papers on statistics and machine learning.
 
 ## Table of contents
 
@@ -34,3 +33,9 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.6.21     |Tianxiang Cui   |[PFL with Gaussian Processes]({{site.url}}/literature/Spring_2023/2023.6.21_tianxiang_PFL with Gaussian Processes.zip)|
 | 2023.6.27     |Zhaojun Hu   |[Gaussian Differential Privacy]({{site.url}}/literature/Spring_2023/2023.6.27_zhaojun_Gaussian Differential Privacy.zip)|
 | 2023.7.5     |Biao Mei  |[On Bridging Generic and Personalized Federated Learning for Image Classification]({{site.url}}/literature/Spring_2023/2023.7.5_meibiao_On Bridging Generic and Personalized Federated Learning for Image Classification.zip)|
+
+## Papers (Autumn Semester, 2023)
+| Date | Presenter | Topic | 
+
+## Papers (Spring Semester, 2024)
+| Date | Presenter | Topic | 
