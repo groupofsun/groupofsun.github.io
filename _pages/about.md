@@ -44,6 +44,6 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.5.13     | Tianxiang Cui    |Categorical Reparameterization With Gumbel-Softmax|
 | 2023.6.3     |Erbo Li    |Meta-learning for Mixed Linear Regression|
 | 2023.6.14     |Yuzhao Zhang   |Network Subspace Change Point Detection|
-
-
-
+| 2023.6.21     |Tianxiang Cui   |PFL with Gaussian Processes|
+| 2023.6.27     |Zhaojun Hu   |Gaussian Differential Privacy|
+| 2023.7.5     |Biao Mei  |On Bridging Generic and Personalized Federated Learning for Image Classification|
