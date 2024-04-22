@@ -36,7 +36,7 @@ Literature Repository is created for document management, storing statistical pa
 | Date | Presenter | Topic | 
 | 2023.2.22   | Zhaojun Hu     | [on Convergence of Fedprox]({{site.url}}/literature/Spring_2023/2023.2.22_zhaojun_on Convergence of Fedprox.zip)  |
 | 2023.3.1   | Biao Mei     | [Federated Multi-Task Learning under a Mixture of Distributions]({{site.url}}/literature/Spring_2023/2023.3.1_meibiao_Federated Multi-Task Learning under a Mixture of Distributions.zip)  | 
-| 2023.3.15     | Erbo Li       | [Mixed Linear Regression with Multiple Components({{site.url}}/literature/Spring_2023/2023.3.15_lear_Mixed Linear Regression with Multiple Components.zip)
+| 2023.3.15     | Erbo Li       | [Mixed Linear Regression with Multiple Components({{site.url}}/literature/Spring_2023/2023.3.15_lear_Mixed Linear Regression with Multiple Components.rar)
 | 2023.3.22     | Zhaojun Hu       |[A Unified Analysis of Stochastic Gradient Methods]({{site.url}}/literature/Spring_2023/2023.3.22_zhaojun_A Unified Analysis of Stochastic Gradient Methods.zip)|
 | 2023.3.24     | Biao Mei      |[Federated Learning from Pre-Trained Models]({{site.url}}/literature/Spring_2023/2023.3.24_meibiao_Federated Learning from Pre-Trained Models.zip)|
 | 2023.4.22     | Tianxiang Cui      |[PartialFed]({{site.url}}/literature/Spring_2023/2023.4.22_tianxiang_PartialFed.zip)|
