@@ -37,6 +37,8 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.6.27     |Zhaojun Hu   |[Gaussian Differential Privacy]({{site.url}}/literature/Spring_2023/2023.6.27_zhaojun_Gaussian Differential Privacy.zip)|
 | 2023.7.5     |Biao Mei  |[On Bridging Generic and Personalized Federated Learning for Image Classification]({{site.url}}/literature/Spring_2023/2023.7.5_meibiao_On Bridging Generic and Personalized Federated Learning for Image Classification.zip)|
 
+[return contents](#table-of-contents)
+
 ## Papers (Autumn Semester, 2023)
 
 | Date | Presenter | Topic | 
@@ -47,11 +49,13 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.12.3| Zhihao Zou | [On learning fairness and accuracy on multiple subgroups]({{site.url}}/literature/Autumn_2023/2023.12.3_zhihao_On learning fairness and accuracy on multiple subgroups.zip) | 
 | 2023.12.25 | Zhiqian Jiang | [Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm]({{site.url}}/literature/Autumn_2023/2023.12.25_zhiqian_Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm.zip) |
 
+[return contents](#table-of-contents)
+
 ## Papers (Spring Semester, 2024)
 
 | Date | Presenter | Topic | 
 | 2024.3.14 | Zhaojun Hu | [ProxSkip]({{site.url}}/literature/Spring_2024/2024.3.14_zhaojun_ProxSkip.zip) | 
 
-
+[return contents](#table-of-contents)
 
 
