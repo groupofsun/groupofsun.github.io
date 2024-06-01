@@ -43,13 +43,16 @@ Literature Repository is created for document management, storing statistical pa
 
 | Date | Presenter | Topic | 
 | 2023.9.11 | Zhaojun Hu | [Federated Learning with Partial Model Personalization]({{site.url}}/literature/Autumn_2023/2023.9.11_zhaojun_Federated Learning with Partial Model Personalization.zip) | 
+|2023.9.18|Biao Mei|[Homeomorphic Invariance of EM Nonasymptotic convergence analysis]({{site.url}}/literature/Autumn_2023/2023.9.18Homeomorphic Invariance of EM Nonasymptotic convergence analysis.zip)|
 | 2023.9.25| Zhihao Zou | [Ditto  Fair  and Robust Federated  Learning Through  Personalization]({{site.url}}/literature/Autumn_2023/2023.9.25_zhihao_Ditto  Fair  and Robust Federated  Learning Through  Personalization.zip) | 
 | 2023.10.23 | Zhiqian Jiang | [Variational Neural Annealing]({{site.url}}/literature/Autumn_2023/2023.10.23_zhiqian_Variational Neural Annealing.zip) | 
 | 2023.11.20 | Zhaojun Hu | [FastSlowMo]({{site.url}}/literature/Autumn_2023/FastSlowMo.zip) |
-| 2023.12.3| Zhihao Zou | [On learning fairness and accuracy on multiple subgroups]({{site.url}}/literature/Autumn_2023/2023.12.3_zhihao_On learning fairness and accuracy on multiple subgroups.zip) | 
+| 2023.11.27 | Biao Mei | [Fedpop a bayesian approach for personalized FL]({{site.url}}/literature/2023.11.27mbfedpop a bayesian approach for perso.pdf)|
+| 2023.12.3| Zhihao Zou | [On learning fairness and accuracy on multiple subgroups]
+({{site.url}}/literature/Autumn_2023/2023.12.3_zhihao_On learning fairness and accuracy on multiple subgroups.zip) | 
 | 2023.12.25 | Zhiqian Jiang | [Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm]({{site.url}}/literature/Autumn_2023/2023.12.25_zhiqian_Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm.zip) |
-|2023.9.18|Biao Mei|[Homeomorphic Invariance of EM Nonasymptotic convergence analysis]({{site.url}}/literature/Autumn_2023/2023.9.18Homeomorphic Invariance pf EM Nonasymptotic convergence analysis.zip)|
-| 2023.11.27 | Biao Mei | [Fedpop a bayesian approach for personalized FL]({{site.url}}/literature/Autumn_2023/2023.11.27fedpop-a-bayesian-approach-for-perso.pdf)|
+
+
 
 [Return Contents](#table-of-contents)
 
