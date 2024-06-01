@@ -48,6 +48,8 @@ Literature Repository is created for document management, storing statistical pa
 | 2023.11.20 | Zhaojun Hu | [FastSlowMo]({{site.url}}/literature/Autumn_2023/FastSlowMo.zip) |
 | 2023.12.3| Zhihao Zou | [On learning fairness and accuracy on multiple subgroups]({{site.url}}/literature/Autumn_2023/2023.12.3_zhihao_On learning fairness and accuracy on multiple subgroups.zip) | 
 | 2023.12.25 | Zhiqian Jiang | [Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm]({{site.url}}/literature/Autumn_2023/2023.12.25_zhiqian_Stein Variational Gradient Descent A General Purpose Bayesian Inference Algorithm.zip) |
+|2023.9.18|Biao Mei|[Homeomorphic Invariance of EM Nonasymptotic convergence analysis]({{site.url}}/literature/Autumn_2023/2023.9.18Homeomorphic Invariance pf EM Nonasymptotic convergence analysis.zip)|
+| 2023.11.27 | Biao Mei | [Fedpop a bayesian approach for personalized FL]({{site.url}}/literature/Autumn_2023/2023.11.27fedpop-a-bayesian-approach-for-perso.pdf)|
 
 [Return Contents](#table-of-contents)
 
