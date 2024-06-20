@@ -59,8 +59,9 @@ Literature Repository is created for document management, storing statistical pa
 
 | Date | Presenter | Topic | 
 | 2024.3.14 | Zhaojun Hu | [ProxSkip]({{site.url}}/literature/Spring_2024/2024.3.14_zhaojun_ProxSkip.zip) | 
-|2024.4.11 |Biao Mei | [LDP_CDF]({{site.url}}/literature/Spring_2024/2024.4.11mbdp_cdf.zip) |
-|2024.5.29|Biao Mei| [LDP_Quantile]({{site.url}}/literature/Spring_2024/2024.5.29_mbdp_quantile.rar) |
+| 2024.4.11 |Biao Mei | [LDP_CDF]({{site.url}}/literature/Spring_2024/2024.4.11mbdp_cdf.zip) |
+| 2024.5.22 | Zhaojun Hu | [Distributed Personalized Empirical Risk Minimization]({{site.url}}/literature/Spring_2024/2024.5.22_zhaojun_Distributed Personalized Empirical Risk Minimization.zip) |
+| 2024.5.29|Biao Mei| [LDP_Quantile]({{site.url}}/literature/Spring_2024/2024.5.29_mbdp_quantile.rar) |
 
 
 [Return Contents](#table-of-contents)
